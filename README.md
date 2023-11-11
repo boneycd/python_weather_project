@@ -12,4 +12,4 @@ Functions that passed all the required tests.
 
 ![ Screenshot showing all my tests are passing ]( screenshots/Passed.png)
 
-![Alt screenshot image showing all my tests are passing](screenshots/Passed.png)
+
