@@ -8,6 +8,8 @@ Everyday we collect data about the weather in order to predict the forecast for 
 ### Content
 Functions that passed all the required tests.
 
+#### Screenshot showing all my tests are passing
 
+![ Screenshot showing all my tests are passing ]( python_weather_project/screenshots/Passed.png )
 
 ![Alt screenshot image showing all my tests are passing](screenshots/Passed.png)
