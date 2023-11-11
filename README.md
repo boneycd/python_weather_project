@@ -10,4 +10,4 @@ Functions that passed all the required tests.
 
 
 
-![Alt screenshot image showing all my tests are passing](python_weather_project\screenshots\Passed.png)
+![Alt screenshot image showing all my tests are passing](screenshots/Passed.png)
